@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    text-align: center;
+    font-family:'Urbanist', sans-serif;
+    background-color: #333;
+    color: white;
+    font-size: 20px;
+}
+.botones {
+    width: 40px;
+    margin-top: 2px;
+}
+#espacio {
+    width: 100px;
+    margin-top: 2px;
+}
+#delet {
+    width: 40px;
+    margin-top: 2px;
+}
+#pantalla {
+    font-family:'Urbanist', sans-serif;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+}
